@@ -29,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilkhandelwal7845&show_icons=true&locale=en" alt="anilkhandelwal7845" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilkhandelwal7845&" alt="anilkhandelwal7845" /></p>
+<div align="center">
+  
+![snake gif](https://github.com/anilkhandelwal7845/anilkhandelwal7845/blob/output/github-contribution-grid-snake.svg)
+
+</div>
