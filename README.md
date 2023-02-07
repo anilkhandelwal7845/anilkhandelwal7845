@@ -33,7 +33,6 @@
 
 <br>
   
-![snake gif](https://github.com/anilkhandelwal7845/anilkhandelwal7845/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
