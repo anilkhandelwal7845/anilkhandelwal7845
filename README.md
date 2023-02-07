@@ -26,9 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilkhandelwal7845&show_icons=true&locale=en&layout=compact" alt="anilkhandelwal7845" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilkhandelwal7845&show_icons=true&locale=en" alt="anilkhandelwal7845" /></p>
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilkhandelwal7845&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilkhandelwal7845&" alt="anilkhandelwal7845" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilkhandelwal7845&show_icons=true&theme=tokyonight" alt="anilkhandelwal7845" /></p>
 <div align="center">
 
 <br>
@@ -37,5 +37,7 @@
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
  
  
