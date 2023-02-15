@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **opensource project.**
 
-- 💬 Ask me about **Dart || Flutter **
+- 💬 Ask me about **Dart**
 
 - 📫 How to reach me **anilkhandelwal7845@gmail.com**
 
